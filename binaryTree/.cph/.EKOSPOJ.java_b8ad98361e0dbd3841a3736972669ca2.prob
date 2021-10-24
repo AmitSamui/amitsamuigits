@@ -1,0 +1,1 @@
+{"name":"Local: EKOSPOJ","url":"f:\\coding\\java\\450dsa\\binaryTree\\EKOSPOJ.java","tests":[{"id":1633361571314,"input":"4 7\n20 15 10 17","output":"15"},{"id":1633361611500,"input":"5 20\n4 42 40 26 46","output":"36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\coding\\java\\450dsa\\binaryTree\\EKOSPOJ.java","group":"local","local":true}
